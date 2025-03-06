@@ -21,7 +21,6 @@
     "@fontsource/open-sans": "^5.1.1",
     "@material-tailwind/react": "^2.1.10",
     "bootstrap": "^5.3.3",
-    "dangerous-html": "^0.1.13",
     "flowbite": "^2.5.2",
     "flowbite-react": "^0.10.2",
     "framer-motion": "^12.0.6",
