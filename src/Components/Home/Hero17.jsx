@@ -1,6 +1,4 @@
 import React, { Fragment } from 'react'
-
-import Script from 'dangerous-html/react'
 import PropTypes from 'prop-types'
 
 import './hero17.css'
